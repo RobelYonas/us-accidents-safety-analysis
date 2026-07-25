@@ -1,0 +1,16 @@
+# Data
+*.csv
+*.zip
+
+# Models (large files)
+*.pkl
+*.joblib
+
+# Jupyter
+.ipynb_checkpoints/
+__pycache__/
+*.ipynb_checkpoints
+
+# Environment
+venv/
+.env
