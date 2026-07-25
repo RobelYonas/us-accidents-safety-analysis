@@ -3,7 +3,6 @@
 *.zip
 
 # Models (large files)
-*.pkl
 *.joblib
 
 # Jupyter
@@ -14,4 +13,3 @@ __pycache__/
 # Environment
 venv/
 .env
-*.pkl
